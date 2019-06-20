@@ -186,7 +186,7 @@ setup(
         'pluggy >= 0.4.0, < 1.0',
         'attrs >=17.4, < 19.0',
         'cattrs',
-        'typing >=3.6, < 3.7',
+        'typing >= 3.6, < 3.8',
 
         # scancode outputs
         'jinja2 >= 2.7.0, < 3.0.0',
