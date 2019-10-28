@@ -204,7 +204,7 @@ setup(
         'dparse >= 0.4.1',
 
         # used to fix mojibake in Windows PE
-        'ftfy <  5.0.0; python_version == "2.7"',
+        'ftfy < 6.0.0; python_version == "2.7"',
         'ftfy>=  5.0.0; python_version > "3"',
 
         # scancode
